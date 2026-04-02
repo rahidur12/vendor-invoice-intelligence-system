@@ -1,0 +1,19 @@
+# Data and Databases
+data/
+*.db
+*.sqlite
+*.pkl
+
+# Environments and Secrets
+.env
+venv/
+ENV/
+env/
+
+# Python internals
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
