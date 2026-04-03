@@ -131,8 +131,8 @@ inventory-invoice-analytics/
 ├── app.py
 ├── README.md
 └── .gitignore
+```
 ---
-
 ## 👤 Author
 
 **Rahidur Rahman**  
